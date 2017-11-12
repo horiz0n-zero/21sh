@@ -1,0 +1,25 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    bonus.txt                                          :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: afeuerst <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2017/11/11 12:49:10 by afeuerst          #+#    #+#              #
+#    Updated: 2017/11/11 16:40:22 by afeuerst         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# trie de l'env
+# inibiteur
+# subshell
+# list de commandes
+#? colors
+# env guard -->> builtins envguard
+# liste de commandes {}
+# pipe plus complexe
+# job control ++
+# env trier
+#?++ globing
+#?++ ft_select
+#alias
